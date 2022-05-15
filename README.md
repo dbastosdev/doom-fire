@@ -1,7 +1,7 @@
 # doom-fire
 
 <p align="center">
-  <img src="hhttps://github.com/dbastosdev/doom-fire/blob/main/fire.png" width="500"/>
+  <img src="https://github.com/dbastosdev/doom-fire/blob/main/fire.png" width="500"/>
 </p>
 
 Doom fire effect implemented in JavaScript. 
